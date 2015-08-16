@@ -11,6 +11,11 @@ This post will cover how to theme Android's `SearchView`.
 
 Like this. Easy huh? 😎
 
-![theming-search-view-1]({{ site.assets }}/images/theming-search-view-1.png "theming-search-view-1")
-![theming-search-view-2]({{ site.assets }}/images/theming-search-view-2.png "theming-search-view-2")
-![theming-search-view-3]({{ site.assets }}/images/theming-search-view-3.png "theming-search-view-3")
+![theming-search-view-1]({{ site.assets }}/images/theme-search-view-1.png "theming-search-view-1")
+![theming-search-view-2]({{ site.assets }}/images/theme-search-view-2.png "theming-search-view-2")
+![theming-search-view-3]({{ site.assets }}/images/theme-search-view-3.png "theming-search-view-3")
+
+
+https://raw.githubusercontent.com/turbogunhawk/turbogunhawk.github.io/master/images/theming-search-view-1.png
+
+https://raw.githubusercontent.com/turbogunhawk/turbogunhawk.github.io/master/images/theme-search-view-1.png
