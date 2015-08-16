@@ -1,0 +1,14 @@
+---
+layout: post
+title: Theming SearchView
+---
+
+This post will cover how to theme Android's `SearchView`.
+
+1. You're using a `NoActionBar` theme.
+2. You're using a dark color for the `Toolbar`s you're including in your layouts.
+3. You're trying to style the `SearchView` so that the text color, text hint color, and icons to show your accent color.
+
+Like this. Easy huh? 😎
+
+![theming-search-view-1]({{ site.assets }}/images/theming-search-view-1.png "theming-search-view-1")
