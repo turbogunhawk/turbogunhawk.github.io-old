@@ -56,6 +56,10 @@ assets: "https://raw.githubusercontent.com/turbogunhawk/turbogunhawk.github.io/m
 #
 
 markdown: redcarpet
+
+kramdown:
+  input: GFM
+
 highlighter: pygments
 permalink: /:title/
 
