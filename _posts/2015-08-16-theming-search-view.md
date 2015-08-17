@@ -11,9 +11,9 @@ This post will cover how to theme Android's `SearchView`.
 
 Like this. Easy huh? 😎
 
-![theming-search-view-1]({{ site.assets }}/images/theme-search-view-1.png "theming-search-view-1")
-![theming-search-view-2]({{ site.assets }}/images/theme-search-view-2.png "theming-search-view-2")
-![theming-search-view-3]({{ site.assets }}/images/theme-search-view-3.png "theming-search-view-3")
+![theme-search-view-1]({{ site.assets }}/images/theme-search-view-1.png "theming-search-view-1")
+![theme-search-view-2]({{ site.assets }}/images/theme-search-view-2.png "theming-search-view-2")
+![theme-search-view-3]({{ site.assets }}/images/theme-search-view-3.png "theming-search-view-3")
 
 Let's take a look at the default theming, with the `colorPrimary`, `colorPrimaryDark` and `colorAccent` defined.
 
@@ -28,7 +28,7 @@ First, let's remove the `Toolbar` from the theme by switching to a `NoActoinBar`
 {% gist turbogunhawk/2f41550019dc4d6d3768 %}
 
 Switching to `NoActionBar` and moving the `Toolbar` to the layout results in this. _Gross._
-![theming-search-view-4]({{ site.assets }}/images/theme-search-view-4.png "theming-search-view-4")
+![theme-search-view-4]({{ site.assets }}/images/theme-search-view-4.png "theming-search-view-4")
 
 So what can we do? Let's start by adding some styles to the `Toolbar`.
 
@@ -37,6 +37,6 @@ So what can we do? Let's start by adding some styles to the `Toolbar`.
 {% gist turbogunhawk/caef0db568599a498dbc %}
 
 Adding the `ThemeOverlay` is a start but still a far cry.
-![theming-search-view-5]({{ site.assets }}/images/theme-search-view-5.png "theming-search-view-5")
+![theme-search-view-5]({{ site.assets }}/images/theme-search-view-5.png "theming-search-view-5")
 
 _I'm gonna commit this here and just see how it looks._
